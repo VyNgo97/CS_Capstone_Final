@@ -6,8 +6,8 @@
 
 CRGB leds[NUM_LEDS];
 
-const char* ssid = "haveagoodweekend";
-const char* password = "hea316ven";
+const char* ssid = id;
+const char* password = password;
 
 
 WiFiServer server(80);
