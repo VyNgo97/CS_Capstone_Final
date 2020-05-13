@@ -93,3 +93,10 @@ Responses for expected value of our 'data field'
 
 - `404 Not Found` if device doesn't exist
 - `204 No Content` on success
+
+#References:
+
+The sources used to complete our project include:
+https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348
+https://opencv.org/
+https://github.com/omar178/Emotion-recognition/blob/master/models/_mini_XCEPTION.102-0.66.hdf5
